@@ -1,1 +1,1 @@
-# Employee_Salary_Predictor
+# Employee_Salary_Prediction
